@@ -1,0 +1,12 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+edge-tts
+pygame
+pyautogui
+groq
+wikipedia
+opencv-python
+mediapipe
+numpy
+pyserial
